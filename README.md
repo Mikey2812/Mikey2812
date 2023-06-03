@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Huy Tran</h1>
 <h3 align="center">A passionate developer from DaNang City</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<div display="flex">
+	<img align=left" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+	<img align="right" alt="Coding" width="400" src="https://dogily.vn/wp-content/uploads/2022/12/Hinh-gif-cho-Shiba-nhay.gif">
+</div>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikey2812&label=Profile%20views&color=0e75b6&style=flat" alt="mikey2812" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikey2812" alt="mikey2812" /></a> </p>
