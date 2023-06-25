@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikey2812&label=Profile%20views&color=0e75b6&style=flat" alt="mikey2812" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikey2812" alt="mikey2812" /></a> </p>
+![123](https://github.com/Mikey2812/Mikey2812/blob/main/Gif/giphy.gif?raw=true)
 
 - 📫 How to reach me **tranlequanghuy281201@gmail.com**
 
